@@ -31,3 +31,15 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Dart/Flutter
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.idea/
+.vscode/
+
+# System files
+*.swp
+*.DS_Store
